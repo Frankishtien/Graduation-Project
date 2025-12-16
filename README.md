@@ -10,6 +10,7 @@
    - NAV BAR:
      - #HOME
      - #DARK_MODE_BUTTON
+     - #language
      - #SEARCH
      - #ABOUT will go down to about section
      - #services will go down to services section
