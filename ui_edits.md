@@ -12,6 +12,11 @@
 <img width="659" height="801" alt="image" src="https://github.com/user-attachments/assets/3901be64-bad5-4f86-9b20-dc0d1340be2f" />
 
 
+<img width="1113" height="711" alt="image" src="https://github.com/user-attachments/assets/35345861-bcae-4b49-ba38-fdceb24d6713" />
+
+
+
+
 > ## بدل التلاته دول عاوزين GRAPH  واحد للمقارنه ربع سنويه التلاته دول هيكونو فى ال ANALYTICS 
 
 
