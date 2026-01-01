@@ -109,20 +109,36 @@
 ----
 
 
+<img width="959" height="817" alt="image" src="https://github.com/user-attachments/assets/40525f2f-e2f2-40ce-ab2a-69b8495cc0d0" />
+
+<img width="733" height="204" alt="image" src="https://github.com/user-attachments/assets/13c6b25f-6c9b-4073-aecc-2ce391247b34" />
+
+<img width="986" height="743" alt="image" src="https://github.com/user-attachments/assets/a87febe0-1d4d-4f99-ab7f-52e6b6cf93bd" />
+
+<img width="1124" height="644" alt="image" src="https://github.com/user-attachments/assets/d8bbf586-7633-47c6-8d6b-05d9ed5bf131" />
+
+
+<img width="1439" height="773" alt="image" src="https://github.com/user-attachments/assets/11429b40-7a75-4106-86fa-f6664286085a" />
+
+
+---
+---
+---
+
+
+ <img width="893" height="674" alt="image" src="https://github.com/user-attachments/assets/2c5516a8-517f-4619-9943-6816f1d76323" />
+
+
+> ## HERE WILL BE ORGNIZATION INFO NOT ORGNIZER
 
 
 
+----
+----
+-----
 
 
-
-
-
-
-
-
-
-
-
+# NOTIFICATION HAVE TAB ON SIDE BAR WHERE IS IT ????
 
 
 
