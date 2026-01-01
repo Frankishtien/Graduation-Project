@@ -129,7 +129,7 @@
  <img width="893" height="674" alt="image" src="https://github.com/user-attachments/assets/2c5516a8-517f-4619-9943-6816f1d76323" />
 
 
-> ## HERE WILL BE ORGNIZATION INFO NOT ORGNIZER
+> ## HERE WILL BE ORGNIZATION INFO NOT ONE PERSON INFO
 
 
 
