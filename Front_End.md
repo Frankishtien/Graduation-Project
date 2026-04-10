@@ -9,8 +9,8 @@
 ## 6. notification
 ## 7. languge -> arabic
 ## 8. navbar ()
-## 9. orgnization profile (edit org data)
-## 10. 
+## 9. orgnization profile (edit org data) & settings 
+
 
 
 
