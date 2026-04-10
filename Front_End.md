@@ -2,7 +2,7 @@
 
 
 ## 1. organization sign up
-## 2. interactions (polls ⚠️)  & (chat , photos , ......) future
+## 2. interactions (polls ⚠️)  & (chat❌ ==> comments💬 , photos , ......) future
 ## 3. manage attendance and numbers of attendance of each events with it's analysis
 ## 4. finanical analysis
 ## 5. support team
